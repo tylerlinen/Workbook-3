@@ -1,0 +1,3 @@
+[submodule "BedtimeStories"]
+	path = BedtimeStories
+	url = https://github.com/tylerlinen/BedtimeStories.git
